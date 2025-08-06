@@ -19,4 +19,4 @@ Spiderbot
    docs/6.Voice_Interaction_Course.md
    docs/7.Serial_Communication_Course.md
    docs/Appendix.md
-   Download <https://drive.google.com/drive/folders/1HAgbjP6uFb5cgpN_0wvCzxRFn9W5T_rP?usp=sharing>
+   Download <https://drive.google.com/drive/folders/1299TWsMpK2Fg2Iy8MfnSTTuKJLbbwkBO?usp=drive_link>

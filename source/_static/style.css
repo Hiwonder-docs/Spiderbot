@@ -124,4 +124,7 @@ table {
     .wy-grid-for-nav .wy-nav-content{
         max-width: 1080px;
     }
+    #packing-list .wy-table-responsive > table{
+        width: 880px;
+    }
 }
